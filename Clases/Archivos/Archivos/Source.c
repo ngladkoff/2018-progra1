@@ -5,14 +5,17 @@
 typedef struct {
 	char Nombre[20];
 	int edad;
+	int matAprobadas;
 } tPersona;
 
 int main(void) {
+	tPersona alumno2;
+
 	tPersona alumno;
 	alumno.edad = 20;
 	strcpy(alumno.Nombre, "Nicolas");
 
-	char lectura[100];
+	char temporal[100];
 
 	/*
 	
@@ -30,26 +33,53 @@ int main(void) {
 
 	*/
 
-	FILE *f;
+	FILE *archivo;
 	// f = fopen("archivo.txt", "w");
+	archivo = fopen("C:\\Users\\nicol\\Desktop\\archivo.txt", "w");
 
-	f = fopen("archivo.txt", "r");
-	if (f == NULL) {
+	if (archivo == NULL) {
 		printf("No se pudo abrir archivo");
 		exit(EXIT_FAILURE);
 	}
 
-	fgets(lectura, 100, f);
-	while (!feof(f)) {
-		printf("%s", lectura);
-		fgets(lectura, 100, f);
+	/*
+	*/
+	for (int i = 0; i < 10; i++) {
+		fprintf(archivo, "%d: %s||%d\n", i, alumno.Nombre, alumno.edad);
 	}
-	
-	// fprintf(f, "%s %d\n", alumno.Nombre, alumno.edad);
 
+	fclose(archivo);
+
+	archivo = fopen("C:\\Users\\nicol\\Desktop\\archivo.txt", "r");
+	if (archivo == NULL) {
+		printf("No se pudo abrir archivo");
+		exit(EXIT_FAILURE);
+	}
+
+	fgets(temporal, 100, archivo);
+	while (!feof(archivo)) {
+		printf("%s", temporal);
+		fgets(temporal, 100, archivo);
+	}
+
+
+	fclose(archivo); 
+
+	
+	
 	// fprintf(stdout, "fin\n");
 
-	fclose(f);
+	// Binario
+	archivo = fopen("C:\\Users\\nicol\\Desktop\\archivo.bin", "wb");
+	fwrite(&alumno, sizeof(tPersona), 1, archivo);
+	fseek(archivo, 0, SEEK_SET);
+	fclose(archivo);
+
+	archivo = fopen("C:\\Users\\nicol\\Desktop\\archivo.bin", "rb");
+	fread(&alumno2, sizeof(tPersona), 1, archivo);
+	fclose(archivo);
+
+	printf("%s %d", alumno2.Nombre, alumno2.edad);
 
 	system("pause");
 	return EXIT_SUCCESS;
