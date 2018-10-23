@@ -1,0 +1,559 @@
+ID      NOMBRE                                                                CALLE                                  ALTURA CONTACTO                          TELEFONO                          BARRIO
+      77MEGA HOME                                                             AV FERNANDEZ DE LA CRUZ                   6920CERVERA ROBERTO HUGO              4545-7331                         VILLA RIACHUELO
+     497EL HOGAR DE DORA                                                      SAYOS                                     5554MINOTTI CARLOS AGUSTIN            4523-4889                         VILLA LUGANO
+     108ETERNA S.R.L.                                                         AV RIESTRA                                5540MINOTTI CARLOS AGUSTIN            4523-4889                         VILLA LUGANO
+     302PARA ABUELOS MI REFUGIO SRL                                           GRAL EUGENIO GARZON                       6870CARNEVALE MABEL                   5252-0909/15-5247-4239            MATADEROS
+     256SONIA  ESTER ROA                                                      ECHEANDIA                                 4987CARNEVALE MABEL                   5252-0909/15-5247-4239            VILLA LUGANO
+     347RES. GER. LA CASA DE MAMA                                             JOSE MARTI                                3133LIZASO ESTEBAN                    15-5057-4121
+     182RES. GER. ELIT                                                        CAÑADA DE GOMEZ                           1721LIZASO ESTEBAN                    15-5057-4121
+     317HOGAR SAN ANDRES                                                      GREGORIO DE LAFERRERE                     5045ADRIANA MUÑIZ                     15-6155-4283                      MATADEROS
+     470SANTA ISABEL                                                          SAN ANTONIO                                948ADRIANA MUÑIZ                     15-6155-4283                      BARRACAS
+     419JUAN Y AGUSTINA GUEREÑO                                               OLIDEN                                    1361LIZASO ESTEBAN                    15-5057-4121
+     391INST. GER. SAN LUCAS                                                  MEDINA                                    1650LIZASO ESTEBAN                    15-5057-4121
+     278NUEVA POMPEYA                                                         FOURNIER                                  3014LIZASO ESTEBAN                    15-5057-4121
+     511LA CASA DE AMANDA                                                     TANDIL                                    4870MINOTTI CARLOS AGUSTIN            4523-4889                         MATADEROS
+     503RES. GER. LA FE                                                       S. GARCIA GDE DE ZEQUEIRA                 6088LIZASO ESTEBAN                    15-5057-4121
+     488GER. CASA GRANDE                                                      SANTA MAGDALENA                            615ADRIANA MUÑIZ                     15-6155-4283                      BARRACAS
+      73GER. VERCIAN S.R.L.                                                   AV EMILIO CASTRO                          6262ROMAGNOLI                         4301-6695
+     469CENTRO INTEGRAL DE GERIATRIA SRL                                      SAN ANTONIO                                611RIZZO MAXIMILIANO RAI             4632-6031                         BARRACAS
+     176LE SA                                                                 CALIFORNIA                                2580STEIZEL ARIEL                     15-4972-9889                      BARRACAS
+     371MI SEGUNDO HOGAR                                                      LISANDRO DE LA TORRE                       938MINOTTI CARLOS AGUSTIN            4523-4889                         LINIERS
+      85RINCON DEL SUR                                                        AV IRIARTE                                1756STEIZEL ARIEL                     15-4972-9889                      BARRACAS
+     171GER. SERENA                                                           CAAGUAZU                                  6656PELAEZ ALBERTO MANUEL             4922-7065                         LINIERS
+     172SAN NICOLAS                                                           CAFAYATE                                   643HERMIDA DIEGO RODOLFO             15-6520-6678                      LINIERS
+     529HOGAR SAN NICOLAS                                                     TUYUTI                                    7220HERMIDA DIEGO RODOLFO             15-6520-6678                      LINIERS
+      94GER. NUEVO HORIZONTE                                                  AV LACARRA                                1152MINOTTI CARLOS AGUSTIN            4523-4889                         PARQUE AVELLANEDA
+     403HERMANITAS DE LOS  ANCIANOS DESAMPARADOS                              MORETO                                     767RAICH GUSTAVO CLAUDIO             15-5157-5716                      PARQUE AVELLANEDA
+     418HOGAR MI ESPERANZA                                                    OLIDEN                                     576ADRIANA MUÑIZ                     15-6155-4283                      LINIERS
+     481ESTABLECIMIENTO GER. STELLA MARIS                                     SAN PEDRO                                 4060PEREYRA MIGUEL ANGEL              4482-1521                         PARQUE AVELLANEDA
+     236SANTA ANA                                                             DAMASOLARRAÑAGA                            640LEIVA DAMIAN MARCELO              15-5039-3308                      PARQUE AVELLANEDA
+      81PATRICIA LEONOR FARIAS                                                AV GRAL. PAZ                             11000CALBO PABLO DANIEL                4782-3356/15-5503-7304            LINIERS
+     363NTRA SEÑORA DE LUJAN S.R.L                                            LARRAZABAL                                 451ADRIANA MUÑIZ                     15-6155-4283                      LINIERS
+     170ESTABLECIMIENTO GER.                                                  CAAGUAZU                                  6144LIZASO ESTEBAN                    15-5057-4121
+     443RES. PARA LA 3RA EDAD EMUNA S. R. L.                                  PERGAMINO                                 1044CERIMEDO CARLOS ALFREDO           15-6274-9504                      PARQUE AVELLANEDA
+     480GAVILAN                                                               SAN PEDRO                                 3958ADRIANA MUÑIZ                     15-6155-4283                      PARQUE AVELLANEDA
+     447HOGAR SAN NICOLAS                                                     PIERES                                     238HERMIDA DIEGO RODOLFO             15-6520-6678                      LINIERS
+     133SAN AGUSTIN                                                           B. FERNANDEZ MORENOV                      3214LIZASO ESTEBAN                    15-5057-4121
+     362NUESTROS ABUELOS                                                      LAGUNA                                     852LIZASO ESTEBAN                    15-5057-4121
+     281GER. HOGARES CANADAS SRL                                              FRANCISCO BILBAO                          3533ADRIANA MUÑIZ                     15-6155-4283                      PARQUE AVELLANEDA
+     386GER. HERIBERTO ROMAN MERCADO ROMERO                                   MARTINEZ CASTRO                            828VACA VILLARROEL MAURO HUGO        15-5041-0924                      PARQUE AVELLANEDA
+      95ESTABLECIMIENTO GER. LAFUENTE                                         AV LAFUENTE                                961CERVERA ROBERTO HUGO              4545-7331                         FLORES
+      12RES. GER. HOGAR DEL CARMEN                                            ALBARIÑO                                   360GOMEZ DANIEL ALBERTO              15-655-3612
+     337GUSTAVO OMAR CANOSA GER. NTRA SRA DE LUJAN                            IBARROLA                                  7177LIZASO ESTEBAN                    15-5057-4121
+     310SANTA LUCIA DE J. ANGEL WOLOSZYN                                      GRAL.G. ARAOZ DE LAMADRID                 1561LEIVA DAMIAN MARCELO              15-5039-3308                      BARRACAS
+     174RES. GER. LAS ROSAS                                                   CAJARAVILLA                               4721LIZASO ESTEBAN                    15-5057-4121
+     509MARGARITA ESPINOZA                                                    TANDIL                                    3824ESPINOSA JOSE CARLOS              15-6050-7553                      PARQUE AVELLANEDA
+      89LA FAMILIA                                                            AV JUAN BAUTISTA ALBERDI                  4205ABUIN RAI HECTOR                  15-5962-6013                      VELEZ SARSFIELD
+     348RES. DI SALVO                                                         JOSE MARTI                                 718ROVENZANO SERGIO                  15-5155-0741                      FLORES
+     408SAN MARCOS                                                            MUÑIZ                                     2175ADRIANA MUÑIZ                     15-6155-4283                      BOEDO
+     528TUYU                                                                  TUYU                                        36MINOTTI CARLOS AGUSTIN            4523-4889                         LINIERS
+      51GER. CASEROS 3746                                                     AV CASEROS                                3746CERVERA ROBERTO HUGO              4545-7331                         NUEVA POMPEYA
+     259GER. DE OMAR EZEQUIEL BONINO                                          EL ARTESANO                               1251FEBRERO LUCIANO                   15-6471-4621/3968-1325            PARQUE CHACABUCO
+     379HOGAR MIS ABUELAS                                                     MANZONI                                    121MINOTTI CARLOS AGUSTIN            4523-4889                         VILLA LURO
+     449SANTA ROSA                                                            PORTELA                                    571LIZASO ESTEBAN                    15-5057-4121
+     381EL JARDIN DE LA ARMONIA                                               MARIANO ACOSTA                             515BOURET CARLOS                     4631-8409                         PARQUE AVELLANEDA
+     110LUCAS MARTIN PONTILLO                                                 AV RIVADAVIA                             10040CLEIMAN DEMIAN                    4833-5900                         VILLA LURO
+     467JAVIER ORLANDO RIZZO                                                  RUIZ DE LOS LLANOS                          52FEBRERO LUCIANO                   15-6471-4621/3968-1325            VILLA LURO
+      61HOGAR PARA MAYORES SAN PANTALEON                                      AV CURAPALIGUE                            1316CASALINUOVO JOSE NICOLAS          4766-4926                         PARQUE CHACABUCO
+     117RENACER                                                               AV SAN PEDRITO                             558CARNEVALE MABEL                   5252-0909/15-5247-4239            FLORES
+     450GONIGRA S.R.L.                                                        PORTELA                                    447MATIAS SUSANA G.                  15-5998-5840
+      50SAN PATRICIO                                                          AV CASEROS                                3031MINOTTI CARLOS AGUSTIN            4523-4889                         PARQUE PATRICIOS
+     303CELINA RENEE FABRYKANT                                                GRAL HORNOS                                902MINOTTI CARLOS AGUSTIN            4523-4889                         BARRACAS
+     489RES. MONTERREY III                                                    SANTANDER                                 1634MINOTTI CARLOS AGUSTIN            4523-4889                         PARQUE CHACABUCO
+     366RINCONCITO DE LUZ                                                     LAUTARO                                    845PICK PATRICIA                     15-4400-0847
+     198TUYU II                                                               CERVANTES                                  128MINOTTI CARLOS AGUSTIN            4523-4889                         VILLA LURO
+     382ANTUAL S.R.L                                                          MARIANO ACOSTA                             171CARNEVALE MABEL                   5252-0909/15-5247-4239            VELEZ SARSFIELD
+      31RES. GER. BARRACAS                                                    ARISTOBULO DEL VALLE                      1244ZABALA CHTISTIAN RAM              15-6752-3481/3530-5894            BARRACAS
+     223MARIA DEL CARMEN GONZALEZ                                             CNEL RAMON L. FALCON                      4032LEIVA DAMIAN MARCELO              15-5039-3308                      VELEZ SARSFIELD
+      65HOGAR ANDREA                                                          AV DIRECTORIO                             2845CERVERA ROBERTO HUGO              4545-7331                         FLORES
+     402MARIA ELENA FURIASE                                                   MOLIERE                                    332ROMERO NESTOR DANIEL              15-5961-9164                      VILLA LURO
+     468GER.S PRIVADOS DON BOSCO S.R.L.                                       SALCEDO                                   4158DIAZ CORIA BERNABE GUIDO          15-6093-4814                      BOEDO
+     134HOGAR BARADERO                                                        BARADERO                                   142ROMAGNOLI                         4301-6695
+      74ZACAVERA                                                              AV EVA PERON                              1665FIGUEROA MARCELO HERNAN           15-6159-9601                      PARQUE CHACABUCO
+     124SALIM                                                                 AZUL                                       169CASTRO MARIO GABRIEL              15-6496-6758                      FLORESTA
+     451RES. PARA ABUELAS NADIR                                               PORTELA                                    133LIZASO ESTEBAN                    15-5057-4121
+      49ESTABLECIMIENTO GER. CASEROS                                          AV CASEROS                                1847PADILLA JAVIER SANTIAGO           4961-9056                         CONSTITUCION
+     360HOGAR SAN GENARO I                                                    LAFUENTE                                   248CASTRO MARIO GABRIEL              15-6496-6758                      FLORES
+     459HAYDEE ANGELICA PEREZ                                                 QUIRNO                                     162CASTA? JOSE                       15-6330-0777                      FLORES
+      67RES. PARA MAYORES CARPE DIEM                                          AV DIRECTORIO                             2363RASTELLI NESTOR                   15-4478-9660                      FLORES
+     346RES. GER. DEL SOL SRL                                                 JOSE BONIFACIO                            2568FIGUEIRAS OMAR L.                 15-4579-6397/4296-0969            FLORES
+     221SAN JOSE Y MARIA                                                      CNEL RAMON L. FALCON                      3120ADRIANA MUÑIZ                     15-6155-4283                      FLORES
+     109RES. GER. SAN NICOLAS                                                 AV RIVADAVIA                              8143GOMEZ DANIEL ALBERTO              15-655-3612
+     442RES. GER. PEREYRA                                                     PEREYRA                                   1680FEBRERO LUCIANO                   15-6471-4621/3968-1325            BOEDO
+     122VERNET                                                                AV VERNET                                  163LIZASO ESTEBAN                    15-5057-4121
+     361GER. VIRGEN DE POMPEYA DE FELMA S.R.L.                                LAFUENTE                                   153ROMAGNOLI                         4301-6695
+     472HOGAR SAN BLAS                                                        SAN BLAS                                  5550LATAPIE LILIANA BEATRIZ           15-5414-8082
+     473SAN JOSE SRL                                                          SAN JOSE                                  2013MINOTTI CARLOS AGUSTIN            4523-4889                         CONSTITUCION
+     157RES. GER. LA VICTORIA                                                 BOGOTA                                    4241MINOTTI CARLOS AGUSTIN            4523-4889                         VELEZ SARSFIELD
+       7MEDALLA MILAGROSA                                                     ACHAVAL                                    640CAUMO MARIANO                     4632-1736/1158                    PARQUE CHACABUCO
+     282EN CASA II                                                            FRANCISCO BILBAO                          1753BADALUCCO MARIANO                                                   PARQUE CHACABUCO
+     479RES. GER. MI DULCE HOGAR DE ROMINA PAOLA AISEN                        SAN NICOLAS                                 84MINOTTI CARLOS AGUSTIN            4523-4889                         FLORESTA
+     224GER. HEGLOS SRL VIDA PLENA                                            CNEL RAMON L. FALCON                      2859MINOTTI CARLOS AGUSTIN            4523-4889                         FLORES
+     460RES. FAMILY                                                           QUIRNO                                      52MINOTTI CARLOS AGUSTIN            4523-4889                         FLORES
+     465RES. GER. SAN JOSE                                                    RIVERA INDARTE                             249CARO MARIO DIONISIO               5776-3475/15-4049-9605
+     125GER. BALDOMERO DE CRISTINA TKACZIK                                    B.F. MORENO                               1223ROMAGNOLI                         4301-6695
+     495INST. GER. GENESIS                                                    SARACHAGA                                 4467RODRIGUEZ JOSE MARIA              15-6115-7062                      VELEZ SARSFIELD
+     507RES. LOPEZ MIC                                                        TACUARI                                   2049DIAZ CORIA BERNABE GUIDO          15-6093-4814                      BARRACAS
+      15RES. GER. HOGAR AGOSTINA                                              MAGARIÑOS CERVANTES, A.                   5251CARNEVALE MABEL                   5252-0909/15-5247-4239            VILLA LURO
+     344GER. DR DARDER                                                        JOSE BONIFACIO                            2040ROMAGNOLI                         4301-6695
+     160GER. LARREA - PATRICIA ADRIANA GARCIA                                 BONORINO                                   245ADRIANA MUÑIZ                     15-6155-4283                      FLORES
+      46GER. VILLAVERDE S.R.L.                                                AV BRASIL                                 2455GUTIERREZ JORGE EDUARDO           15-3475-3882                      PARQUE PATRICIOS
+     180RES. GER. JULIA                                                       CAMPANA                                     96LIZASO ESTEBAN                    15-5057-4121
+     271INST. GER. TIEMPO                                                     ESTRADA                                    231CADEL ANDREA VIVIANA              4780-5554                         PARQUE CHACABUCO
+     305GER. EL OASIS                                                         GRAL VENANCIO FLORES                      3439CUENCA GUILLERMO JUAN             4797-8032                         FLORESTA
+     111INST. GER. SAN JOSE DE FLORES S A                                     AV RIVADAVIA                              7422SOUTO EDUARDO                     15-4141-4077                      FLORES
+     437PEDERNERA 130 SRL                                                     PEDERNERA                                  130PICK PATRICIA                     15-4400-0847
+     345GER. CONVIVENCIA                                                      JOSE BONIFACIO                            2015FEDERICO SANTIAGO RAUL            4506-5101/15-5654-7317
+     474GERIMAR S.R.L.                                                        SAN JOSE                                  1870CARNEVALE MABEL                   5252-0909/15-5247-4239            CONSTITUCION
+      29B.O VELAZQUEZ OMAR CITTADINI SOC. DE HECHO                            ARGERICH                                    46CARO MARIO DIONISIO               5776-3475/15-4049-9605
+      68MAITOR S.R.L.                                                         AV DIRECTORIO                             1632GERLING MARTIN SEBASTIAN          15-6993-3836                      PARQUE CHACABUCO
+      98RES. PARA MAYORES SWEET HOME                                          AV LOPE DE VEGA                            930LIZASO ESTEBAN                    15-5057-4121
+     396LONG LIFE S.R.L.                                                      MERCEDES                                   350BURGOS SERGIO FABIAN              4654-8721/15-4066-4364            FLORESTA
+     405INST. BELLAFAY S.R.L                                                  MORON                                     4520CERVERA ROBERTO HUGO              4545-7331                         VELEZ SARSFIELD
+     338RES. GER. ANTAÑO                                                      INCLAN                                    2625LIZASO ESTEBAN                    15-5057-4121
+     554GONIGDA S.R.L.                                                        YERBAL                                    2972CARUSO JUAN CARLOS                15-4493-9173                      FLORES
+     512RES. GER. SOLANGE                                                     TARIJA                                    4072ARIAS ANDRES LEONARDO                                               BOEDO
+     238RES. GER.                                                             DEAN FUNES                                1632MINOTTI CARLOS AGUSTIN            4523-4889                         PARQUE PATRICIOS
+      66NTRA SEÑORA DE LOS MILAGROS                                           AV DIRECTORIO                             1130ROMERO NESTOR DANIEL              15-5961-9164                      PARQUE CHACABUCO
+     235GER. CURAPALIGUE SRL                                                  CURAPALIGUE                                339ADRIANA MUÑIZ                     15-6155-4283                      FLORES
+     308GER. BUEN AYRE                                                        GOYA                                       713MINOTTI CARLOS AGUSTIN            4523-4889                         VELEZ SARSFIELD
+     194GER. VIDA PLENA                                                       CASTRO                                    1333GRIFFO MATIAS                     15-5339-2274                      BOEDO
+     163GER. AVRIL                                                            BRASIL                                    1314PATRICIA PICK                     15-4400-0847                      CONSTITUCION
+     401OLDRICK ROBERTSON                                                     MOCTEZUMA                                 1010CANCINA MIGUEL ANGEL              15-4949-9440
+     240RES. GER. LA PLAZA                                                    DOCTOR PROFESOR ENRIQUE FINOCHIETTO        529ADRIANA MUÑIZ                     15-6155-4283                      BARRACAS
+       2HOGAR ENTRE AMIGOS                                                    24 DE NOVIEMBRE                           1421GRIFFO MATIAS NICOLAS             15-5339-2274                      SAN CRISTOBAL
+     191LA FUENTE                                                             CARRASCO                                   933DURANDEU LURDES                   4372-9514
+     127SERVICIOS PREFERENCIALES AJ S.R.L.                                    BACACAY                                   2672BADALUCCO MARIANO                                                   FLORES
+     506SAN FRANCISCO                                                         TACUARI                                   1670DORADO MARIA GABRIELA             15-3549-9893                      CONSTITUCION
+     298GER. SAN GERMAN                                                       GAVILAN                                     52CARNEVALE MABEL                   5252-0909/15-5247-4239            FLORES
+      90GER. SAN FRANCISCO DE ASIS                                            AV JUAN DE GARAY                          1714FEBRERO LUCIANO                   15-6471-4621/3968-1325            CONSTITUCION
+     128SAN JORGE                                                             BACACAY                                   2585ROMAGNOLI                         4301-6695
+     126LOS PINOS                                                             BACACAY                                   2550MINOTTI CARLOS AGUSTIN            4523-4889                         FLORES
+     159PRESTACIONES S.A.                                                     BOLIVIA                                    324ADRIANA MUÑIZ                     15-6155-4283                      FLORES
+     193CENTRO DEL SOL                                                        CASTRO                                    1169MINOTTI CARLOS AGUSTIN            4523-4889                         BOEDO
+     153DULCE ATARDECER DE NORMA HAYDEE LAUFER                                BOGOTA                                    2756MINOTTI CARLOS AGUSTIN            4523-4889                         FLORES
+     100HOGAR GALICIA                                                         AV LOPE DE VEGA                           1444MIRABITO OMAR HORACIO             15-4408-7170
+     288LA MEDALLA MILAGROSA                                                  FRAY LUIS BELTRAN                           82CARUSO JUAN CARLOS                15-4493-9173                      FLORES
+     407DULCE HOGAR I                                                         MUÑIZ                                     1009LIZASO ESTEBAN                    15-5057-4121
+     553INST NAC DE SERV SOC PARA JUBILADOS Y PENSIONADOS                     YERBAL                                    1953GAETA ALBERTO                     4345-1275
+     311GER. ARTIGAS REYLE SRL                                                GRAL. JOSE G. DE ARTIGAS                   397MINOTTI CARLOS AGUSTIN            4523-4889                         FLORES
+     285RES. ANGELES                                                          FRAY CAYETANO RODRIGUEZ                    368FERREYRO JUAN JOSE                15-5304-3593/15-4046-3043         FLORES
+     399HOGAR SAN NICOLAS                                                     MIRANDA                                   5269HERMIDA DIEGO RODOLFO             15-6520-6678                      MONTE CASTRO
+     217RES. GER. SANTA BARBARA                                               CONSTITUCION                              2150VACA VILLARROEL MAURO             15-5041-0924                      SAN CRISTOBAL
+     152RECLISAN SRL                                                          BOGOTA                                    2450ADRIANA MUÑIZ                     15-6155-4283                      FLORES
+     162JORGE LUIS PAZOS MIRALLES                                             BOYACA                                     114PICK PATRICIA                     15-4400-0847
+     312ARTIGAS                                                               GRAL. JOSE G. DE ARTIGAS                   428SOUTO EDUARDO                     15-4141-4077                      FLORES
+     389SAGRADA FAMILIA                                                       MAZA                                      1210CUENCA GUILLERMO JUAN             4797-8032                         BOEDO
+     199GER. MODELO CERVANTES S.A.                                            CERVANTES                                 4651MINOTTI CARLOS AGUSTIN            4523-4889                         VELEZ SARSFIELD
+     445HOGAR CASA DEL SOL - IDEAS                                            PICHINCHA                                 1372RODRIGUEZ PABLO JAVIER            4228-7098
+     287GER. BELTRAN                                                          FRAY LUIS BELTRAN                          165CUENCA GUILLERMO JUAN             4797-8032                         FLORES
+     304DEL ESTE                                                              GRAL URQUIZA                              1236                                                                    SAN CRISTOBAL
+     105RES. GER. PEDRO GOYENA                                                AV PEDRO GOYENA                             38PETRYH HORACIO RAMON              15-5809-4153/642                  CABALLITO
+     107RES. GER. MI NUEVO HOGAR                                              AV PEDRO GOYENA                             34ARIAS HORACIO ROBERTO             15-5175-2748
+     534VICTORIA                                                              VALLE                                     1020LIZASO ESTEBAN                    15-5057-4121
+     500ESTABLECIMIENTO GER. DULCE HOGAR 2                                    SENILLOSA                                  677LIZASO ESTEBAN                    15-5057-4121
+      97BUENOS AIRES HOME S.R.L.                                              AV LOPE DE VEGA                           1619CARNEVALE MABEL                   5252-0909/15-5247-4239            MONTE CASTRO
+     286QUERENCIA DE MARIANA PEDROCCO                                         FRAY CAYETANO RODRIGUEZ                    437CERVERA ROBERTO HUGO              4545-7331                         FLORES
+     300RES. GER. LUZ CENTER                                                  GAVILAN                                    378LEIVA DAMIAN MARCELO              15-5039-3308                      FLORES
+     522ASELFU S.R.L                                                          TOTORAL                                    994MARASCO JOSE ENRIQUE              4629-2905                         BOEDO
+     158GER. BUENOS AIRES                                                     BOLIVIA                                    542ADRIANA MUÑZ                      15-6155-4283                      FLORES
+     540EN FLIA. DE MARIA CRISTINA BALLESTEROS                                VICTOR MARTINEZ                            241MINOTTI CARLOS AGUSTIN            4523-4889                         CABALLITO
+     400GER. ST. LUCAS S.R.L                                                  MIRO                                        54MINOTTI CARLOS AGUSTIN            4523-4889                         CABALLITO
+     406HOGAR DE ANCIANOS MOSHABZEKENIM                                       MORON                                     2966CASTRO MARIO GABRIEL              15-6496-6758                      FLORES
+     498SENILLOSA                                                             SENILLOSA                                  617MINOTTI CARLOS AGUSTIN            4523-4889                         CABALLITO
+     222SANTA JULIA                                                           CNEL RAMON L. FALCON                      1315LIZASO ESTEBAN                    15-5057-4121
+     208RES. DE ANCIANOS COCHABAMBA                                           COCHABAMBA                                1649LIZASO ESTEBAN                    15-5057-4121
+     210COCHABAMBA                                                            COCHABAMBA                                1641LIZASO ESTEBAN                    15-5057-4121
+      44GAVILAN ANEXO BOYACA                                                  AV BOYACA                                  279ADRIANA MUÑZ                      15-6155-4283                      FLORES
+     335SANTA PATRICIA                                                        HUMBERTO PRIMO                            3140MINOTTI CARLOS AGUSTIN            4523-4889                         SAN CRISTOBAL
+      39RES. OARA LA TERCERA EDAD LA CASONA DE MIS VIEJOS                     AV AVELLANEDA                             2258SOCIN ADRIAN ALDO                 15-6448-7041                      FLORES
+      78HOGAR GAONA                                                           AV GAONA                                  3947CASTRO MARIO GABRIEL              15-6496-6758                      VILLA SANTA RITA
+     372GER. SAN CAYETANO                                                     LOBOS                                      475COLLADO RODRIGO                   15-5893-8506                      FLORESTA
+      99RES. GER. SAN CAYETANO                                                AV LOPE DE VEGA                           1847GREGORIO ANDRES                                                     MONTE CASTRO
+     334PATRICIA MONICA KOSLOWSKI                                             HUMBERTO PRIMO                            2853MINOTTI CARLOS AGUSTIN            4523-4889                         SAN CRISTOBAL
+     272RES. PARA MAYORES SM CIMOLAI EVA                                      FELIPE VALLESE                            2748CERVERA ROBERTO HUGO              4545-7331                         FLORES
+     132RES. BALCARCE                                                         BALCARCE                                  1235BUSTAMANTE HERNAN                 15-4447-9111                      SAN TELMO
+     333RES. GER. EL CALDEN                                                   HUMBERTO PRIMO                            2745LIZASO ESTEBAN                    15-5057-4121
+     404MAURA                                                                 MORON                                     2432SOUTO EDUARDO                     15-4141-4077                      FLORES
+     188GER. SAN FRANCISCO DE ASIS                                            CARLOS CALVO                              2965MINOTTI CARLOS AGUSTIN            4523-4889                         SAN CRISTOBAL
+     375ALICIA N SEPULVEDA                                                    M. PORCEL DE PERALTA                      1473ROMERO NESTOR DANIEL              15-5961-9164                      VILLA REAL
+     175GER.S GEBEDOS SRL GUSTAVO  BOHN                                       CALCENA                                    429ABUIN RA HECTOR                   15-5962-6013                      FLORES
+     273DAMONTE EDGARDO - RES. SAN ALBERTO S.A.                               FELIPE VALLESE                            2457SOUTO EDUARDO                     15-4141-4077                      FLORES
+      92SHEMESH                                                               AV JUJUY                                  1007COLLADO RODRIGO                   15-5893-8506                      SAN CRISTOBAL
+     239GRANNY S HOUSE SRL                                                    DEAN FUNES                                 950BARRAGAN JUAN CARLOS                                                SAN CRISTOBAL
+     547RES. GER. SANTA TERESITA                                              VIRREY CEVALLOS                           1082ADRIANA MUÑZ                      15-6155-4283                      CONSTITUCION
+     505GER. SAN JUAN                                                         TACUARI                                   1115SUAREZ ALEJANDRO D.               15-6534-5189                      CONSTITUCION
+     336INST. GER. 9 DE JULIO                                                 HUMBERTO PRIMO                             953LIZASO ESTEBAN                    15-5057-4121
+     189GER. SAN JOSE                                                         CARLOS CALVO                              2180MILANESI CARLOS RODOLFO                                             SAN CRISTOBAL
+     274SERVIPREF S.R.L.                                                      FELIPE VALLESE                            2337BADALUCCO MARIANO                                                   FLORES
+     129RES. PARA MAYORES B.B.                                                BAHIA BLANCA                              1460ADES HECTOR                       4781-9460                         FLORESTA
+      43COPAHUE                                                               AV BOEDO                                   664DI BENEDETTO LUIS ERNESTO         4925-1774                         ALMAGRO
+      41AYGERES S.R.L.                                                        AV AVELLANEDA                             1625MINOTTI CARLOS AGUSTIN            4523-4889                         CABALLITO
+     397AÑOS DORADOS                                                          MEXICO                                    4167LIZASO ESTEBAN                    15-5057-4121
+     245PARA MAYORES PARQUE ROSAL                                             DR. JUAN F. ARANGUREN                     1832BRAVO GUSTAVO RAUL                4542-6811/15-3353-4880
+     190RES. GER. SAN MARTIN                                                  CARLOS CALVO                              1855LIZASO ESTEBAN                    15-5057-4121
+     464RIGLOS                                                                RIGLOS                                     135LIZASO ESTEBAN                    15-5057-4121
+     181MIRTA GRACIELA DE CONDE                                               CANADA                                    4957DACHEVSKY EDGARDO                 15-6397-6827                      MONTE CASTRO
+     146CASABLANCA                                                            BENITO JUAREZ                             2120RODRIGUEZ BUSSI SEBASTIAN MATIAS  4992-6675                         MONTE CASTRO
+     499RES. GER. LUZ DE VIDA                                                 SENILLOSA                                  324LIZASO ESTEBAN                    15-5057-4121
+     120RENACER II                                                            AV GRAL. DONATO ALVAREZ                    505GRIFFO MATIAS                     15-5339-2274                      CABALLITO
+     322CLINICA GER. GUAYAQUIL S.A                                            GUAYAQUIL                                  143MAGGIO FABIAN ALEJANDRO           15-5029-4566                      CABALLITO
+     280MAGLIONI ROSA LIA                                                     FRANCISCO BAUZA                           2372MAGGIO FABIAN ALEJANDRO           15-5029-4566                      VILLA REAL
+     426NONNI S.R.L                                                           PAEZ                                      2315ADRIANA MUÑIZ                     15-6155-4283                      FLORES
+      91SAN S.                                                                AV JUJUY                                   863BOURET CARLOS                     4631-8409                         SAN CRISTOBAL
+     276LA CASA DE MATIAS                                                     FELIPE VALLESE                            1960CERVERA ROBERTO HUGO              4545-7331                         FLORES
+     231BARISOL SRL                                                           CUENCA                                    1242ADRIANA MUÑIZ                     15-6155-4283                      VILLA SANTA RITA
+     121RES. GER. OSIRIS                                                      AV GRAL. DONATO ALVAREZ                    573FEBRERO LUCIANO                   15-6471-4621/3968-1325            CABALLITO
+     268CLINICA GER. ESPIRITU SANTO S.A.                                      ESTADOS UNIDOS                            1683MINOTTI CARLOS AGUSTIN            4383-6368                         CONSTITUCION
+     119RES. SAN JUAN - ILUVATAR S.R.L.                                       AV GRAL. DONATO ALVAREZ                    582MINOTTI CARLOS AGUSTIN            4523-4889                         FLORES
+      83RES. INDEPENDENCIA                                                    AV INDEPENDENCIA                          2562GAETA ALBERTO                     4345-1275
+     267ESTABLECIMIENTO RES. PARA PERSONAS MAYORES                            ESTADOS UNIDOS                            1431PICK PATRICIA                     15-4400-0847
+     398VIRGEN DEL SOCORRO                                                    MEXICO                                    3061ROMAGNOLI                         4301-6695
+     130BAHIA BLANCA                                                          BAHIA BLANCA                              1757FAILLA RICARDO  HECTOR            15-5715-5581                      FLORESTA
+     482CANALEJAS                                                             SANABRIA                                  2021LIZASO ESTEBAN                    15-5057-4121
+     491HOGAR DE ABUELOS ALMA Y CIELO                                         SANTO TOME                                4878CAUMO MARIANO                     4632-1736/1158                    MONTE CASTRO
+      84EL GAUCHITO GIL SRL                                                   AV INDEPENDENCIA                          1220CASTRO MARIO GABRIEL              15-6496-6758                      CONSTITUCION
+     521RES. PARA MAYORES NTRAS RAICES                                        TINOGASTA                                 5373BRAVO GUSTAVO RAUL                4542-6811/15-3353-4880
+      13NVOS EMPRENDIMIENTOS ARGENTINOS SRL                                   ALBERTI                                    647COLLADO RODRIGO                   15-5893-8506                      BALVANERA
+     292TEJAS VERDES                                                          GALICIA                                   2680FAILLA RICARDO  HECTOR            15-5715-5581                      VILLA GRAL. MITRE
+     197GER. DE CATAMARCA S.R.L                                               CATAMARCA                                  558ADRIANA MUÑIZ                     15-6155-4283                      BALVANERA
+     462ARANGUREN                                                             R. ESCALADA DE SAN MARTIN                 3075SOUTO EDUARDO                     15-4141-4077                      VILLA SANTA RITA
+     390JAVIER LEANDRO AISEMBERG                                              MAZA                                       456STRAFACE GABRIEL                  4521-2197
+      17STELLA MARIS                                                          ALMIRANTE F. J. SEGUI                      768CERVERA ROBERTO HUGO              4545-7331                         CABALLITO
+     395RES. ARCO IRIS                                                        MENDEZ DE ANDES                           1139MARTINEZ ELISEO FRANCISCO         4628-8855                         CABALLITO
+     487MODELO SANCHEZ DE LORIA SRL                                           SANCHEZ DE LORIA                           548LIZASO ESTEBAN                    15-5057-4121
+     412EST. GER. SANTA ROSA DE LIMA                                          NEUQUEN                                    551FABAL GUSTAVO                     15-6481-7483                      CABALLITO
+     539ESTABLECIMIENTO GER. PRINCESS                                         VENEZUELA                                 2142LIZASO ESTEBAN                    15-5057-4121
+     343EMERITA SA                                                            JOAQUIN V. GONZALEZ                       1974PLUTT MARCELO H.                                                    MONTE CASTRO
+      45ALBERTO ENRIQUE ALIO                                                  AV BOYACA                                 1214MINOTTI CARLOS AGUSTIN            4523-4889                         VILLA GRAL. MITRE
+      35ACOYTE                                                                AV ACOYTE                                  272PICK PATRICIA                     15-4400-0847
+      82HOGAR NADIR                                                           AV HIPOLITO YRIGOYEN                      4272LIZASO ESTEBAN                    15-5057-4121
+     388SUCESION DE M G DE CANALE                                             MAZA                                       336SOUTO EDUARDO                     15-4141-4077                      ALMAGRO
+     214PABLO ROSSETTI                                                        COLPAYO                                    483GOMEZ DANIEL ALBERTO              15-6553-3612
+      42RES. GER. PAUL NIEHANS S.R.L.                                         AV BELGRANO                               2816CARNEVALE MABEL                   52520909/1552474239               BALVANERA
+     246MI ANGEL                                                              DR. JUAN F. ARANGUREN                      728                                                                    CABALLITO
+     258GER. CASA GRANDE S.R.L.                                               EDUARDO ACEVEDO                             92PADILLA JAVIER SANTIAGO           4961-9056                         CABALLITO
+       4OMEGA III S.R.L.                                                      33 ORIENTALES                               78ADRIANA MUÑIZ                     15-6155-4283                      ALMAGRO
+     243ESTABLEC GER. LA LUISA SA                                             DR. ELEODORO LOBOS                         270CARBALLO WALTER HUGO              15-6507-1188
+     155RES. GER. LA SOLEADA                                                  BOGOTA                                     320GOMEZ DANIEL ALBERTO              15-655-3612
+     218OASIS                                                                 CNEL APOLINARIO FIGUEROA                  1947CARNEVALE MABEL                   5252-0909/15-5247-4239            VILLA GRAL. MITRE
+     187LOYOLA                                                                CARACAS                                   1448GORRIZ JUAN CRUZ                                                    VILLA GRAL. MITRE
+     211GER. NTRA SE?RA DE LOURDES                                            COLOMBRES                                  161MINOTTI CARLOS AGUSTIN            15-4409-0341                      ALMAGRO
+      71AEROKA SRL                                                            AV DR. H. PUEYRREDON                       508CARNEVALE MABEL                   5252-0909/15-5247-4239            CABALLITO
+     435FELICITA ARIAS Y ANTONIO ALVAREZ                                      PASAJE LUCERO                              245MATEU MARCO                       15-3138-1917                      ALMAGRO
+     212HOGAR DE ANCIANOS PRIAMO                                              COLOMBRES                                  147DIAZ CORIA BERNABE GUIDO          15-6093-4814                      ALMAGRO
+     154GER. GALA PETIT HOTEL DE M. EUGENIA PATRICIA MAC ALLISTER             BOGOTA                                     137DIBITETTO DARIO                   15-4066-3298                      CABALLITO
+     196LACAT SRL EL SOLAR DE DON BOSCO                                       CASTRO BARROS                               93DIAZ CORIA BERNABE GUIDO          15-6093-4814                      ALMAGRO
+     275PATRICIA MELO                                                         FELIPE VALLESE                             820MINOTTI CARLOS AGUSTIN            4523-4889                         CABALLITO
+     213COLPAYO                                                               COLPAYO                                    657ADRIANA MUÑIZ                     15-6155-4283                      CABALLITO
+     458GER. PLAZA DEL SOL                                                    QUINTINO BOCAYUVA                           18COLLADO RODRIGO                   15-5893-8506                      ALMAGRO
+     330GER. DALMAU                                                           HIPOLITO YRIGOYEN                         3314ESPINOSA JOSE CARLOS              15-6050-7553                      ALMAGRO
+     439RES. GER. SAN CAYETANO                                                PEDRO LOZANO                              4820GREGORIO ANDRES                                                     VILLA DEVOTO
+     156SAGRADO CORAZON                                                       BOGOTA                                      50CUENCA GUILLERMO JUAN             4797-8032                         CABALLITO
+     440ESTABLECIMIENTO GER. SAN JOSE                                         PEDRO MORAN                               5276LIZASO ESTEBAN                    15-5057-4121
+     370ANTONPV POPOW ROSSETTI PABLO SH                                       LEZICA                                    4142GOMEZ DANIEL A.                   15-4071-6629                      ALMAGRO
+     241EL JARDIN DE DON BOSCO                                                DON BOSCO                                 3448MARASCO JOSE ENRIQUE              4629-2905                         ALMAGRO
+     456RES. GER. MODELO DE BUENOS AIRES S.R.L.                               PUJOL                                      961GARCIA NORBERTO G.                                                  CABALLITO
+     466RES. GER. SANTA BERNARDITA                                            RODRIGO DE IBARROLA                       3486LIZASO ESTEBAN                    15-5057-4121
+     457VILLA DEL SOL                                                         QUERANDIES                                4340LIZASO ESTEBAN                    15-5057-4121
+      40LA MANSION                                                            AV AVELLANEDA                               74GOMEZ DANIEL ALBERTO              15-655-3612
+     517BAFFICO HORACIO Y TORINO GUILLERMO                                    TERRERO                                   1475RIZZO MAXIMILIANO RA              4632-6031                         VILLA GRAL. MITRE
+     112MONTERREY II                                                          AV RIVADAVIA                              3731MINOTTI CARLOS AGUSTIN            4523-4889                         ALMAGRO
+     329LAS CINCO PALMERA SRL                                                 HIPOLITO YRIGOYEN                         2452MINOTTI CARLOS AGUSTIN            4523-4889                         BALVANERA
+     557FUNDACION DE LA COLECTIVIDAD JAPONESA AUNAR                           OROÑO, NICASIO                            1236DIAZ HUGO ALBERTO                 15-5185-5535                      CABALLITO
+     369EL SOLAR DE DON BOSCO                                                 LEZICA                                    3917MARASCO JOSE ENRIQUE              4629-2905/15-5470-4530            ALMAGRO
+     558HOG. CENTRO DE DIA LAZOS                                              ARANGUREN JUAN F DR                        167GOMEZ DANIEL                      15-4071-6629                      CABALLITO
+      23RES. PARA MAYORES APRILIS                                             APOLINARIO FIGUEROA                       1242ADRIANA MUÑIZ                     15-6155-4283                      CABALLITO
+     131RES. CASA PARQUE                                                      BAHIA BLANCA                              2580COLLADO RODRIGO                   15-5893-8506                      MONTE CASTRO
+     178BAFERAL S.R.L.                                                        CAMARONES                                 2551TILL PABLO ELIAS                  15-4421-6549                      VILLA GRAL. MITRE
+     137SAN JORGE                                                             BARTOLOME MITRE                           4008FEBRERO LUCIANO                   15-6471-4621/3968-1325            ALMAGRO
+     422LA SOLEADA                                                            OTAMENDI                                   583OLIVERA FEDERICO                  4962-3621/15-6049-0403            CABALLITO
+      33GER. ARREGUI DE EDUARDO MEZA                                          ARREGUI                                   3516ROMERO NESTOR DANIEL              15-5961-9164                      VLLA DEL PARQUE
+     118ASOC.DE BENEFICIENCIA BRITANICA Y NORTEAMERI                          AV SEGUROLA                               2941FONTANELLAZ DIEGO                 15-5022-2072/022-4142-4598        VILLA DEVOTO
+     520HOGAR DE ABUELOS ALMA Y CIELO                                         TINOGASTA                                 4536CERVERA ROBERTO HUGO              4545-7331                         VILLA DEVOTO
+      69REACTIVAR SRL                                                         AV DR. H. PUEYRREDON                       958CARNEVALE MABEL                   5252-0909/15-5247-4239            CABALLITO
+     436GER. PAYSANDU S.R.L.                                                  PAYSANDU                                  1275MINOTTI CARLOS AGUSTIN            4523-4889                         CABALLITO
+     138NAZARET                                                               BARTOLOME MITRE                           3345ADRIANA MUÑIZ                     15-6155-4283                      BALVANERA
+     313RES. GER. CDH S.R.L.                                                  GRAL. JOSE G. DE ARTIGAS                  1966RIZZO MAXIMILIANO RA              4632-6031                         VILLA GRAL. MITRE
+      70EL BUEN PASTOR                                                        AV DR. H. PUEYRREDON                      1026MINOTTI CARLOS AGUSTIN            4523-4889                         CABALLITO
+      64ALVAREZ Y ARIAS S.R.L.                                                AV DIAZ VELEZ                             3876MATEU MARCO                       15-3138-1917                      ALMAGRO
+     136JORGE ENRIQUE NICOLAS MARCHI                                          BARTOLOME MITRE                           1838RIZZO MAXIMILIANO RA              4632-6031                         BALVANERA
+     414ALICIA ELBA DOTTI                                                     NICASIO OROÑO                             1538ADRIANA MUÑIZ                     15-6155-4283                      CABALLITO
+     454INST. GER. CASA DEL SOL  AÑOS DORADOS S.R.L.                          PRINGLES                                   377RODRIGUEZ JOSE MARIA              15-6115-7062                      ALMAGRO
+      16LAS MARTAS S.R.L.                                                     ALFREDO BUFANO                             254MONTIVERO GLADYS EMILIA                                             VILLA GRAL. MITRE
+     453FERNANDEZ DE ENCISO SRL                                               POTOSI                                    3990MARASCO JOSE ENRIQUE              4629-2905/15-5470-4530            ALMAGRO
+     452HOGAR POTOSI S.R.L.                                                   POTOSI                                    3943CALBO PABLO DANIEL                4782-3356/15-5503-7304            ALMAGRO
+     350LA NUEVA PRIMAVERA S.R.L.                                             JUAN AGUSTIN GARCIA                       2416FRANZ GUSTAVO                     4791-0556                         VILLA GRAL. MITRE
+     483GER. EL HUERTO                                                        SANABRIA                                  3235GRIFFO MATIAS                     15-5339-2274                      VILLA DEVOTO
+     492EL RINCON DE LOS ABUELOS                                              SANTO TOME                                3179CARNEVALE MABEL                   5252-0909/15-5247-4239            VLLA DEL PARQUE
+     485GER. SANABRIA                                                         SANABRIA                                  3278FEDERICO SANTIAGO RAUL            4506-5101/15-5654-7317
+     265LA TRINIDAD                                                           ESPINOSA                                  1520GOMEZ DANIEL ALBERTO              15-6553-7612
+     247KARMA LUZ SRL                                                         DR. LUIS BELAUSTEGUI                      1213MU?Z JUAN RAMON                   15-5133-4849                      CABALLITO
+     513ALERIAN                                                               TTE GRAL JUAN D. PERON                    3850GIORDANO MARTIN                   15-6246-9328                      ALMAGRO
+     496SOCIEDAD DE SAN JOSE                                                  SARMIENTO                                 2130GRIFFO MATIAS NICOLAS             15-5339-2274                      BALVANERA
+     484RES. INTEGRAL MODELO DEL FUTURO                                       SANABRIA                                  3420DIAZ HUGO ALBERTO                 15-5185-5535                      VILLA DEVOTO
+     229GER. AMANECER                                                         CUCHA CUCHA                               1483LIZASO ESTEBAN                    15-5057-4121
+     340SARITA COLONIA                                                        JEAN JAURES                                398GOMEZ NESTOR OMAR                 15-5429-2235                      BALVANERA
+     455SAN BLAS II                                                           PRINGLES                                   635SANGLAR GABRIEL                                                     ALMAGRO
+      72ALEJANDRO GUSTAVO BARCALA                                             AV DR. H. PUEYRREDON                      1388GOMEZ DANIEL A.                   15-4071-6629                      VILLA CRESPO
+     380RES. GER. TERCERA EDAD                                                MARCOS SASTRE                             3073LIZASO ESTEBAN                    15-5057-4121
+     164MARIO BRAVO                                                           BRAVO MARIO                                456LIZASO ESTEBAN                    15-5057-4121
+     471SAN BLAS I                                                            SAN BLAS                                  1772COLLADO RODRIGO                   15-5893-8506                      VILLA GRAL. MITRE
+     277GER.S PRIVADOS DON BOSCOS.R.L                                         FERNANDEZ DE ENCISO                       3715DIAZ CORIA BERNABE GUIDO          15-6093-4814                      VILLA DEVOTO
+     368RES. GER. DE VILLA DEL PARQUE                                         LAVALLOL                                  2851ESPINOSA JOSE CARLOS              15-6050-7553                      VLLA DEL PARQUE
+     490GAMALIEL SA                                                           SANTO TOME                                2746SUCHMON LEANDRO                   15-5428-5184/4901-6193            VLLA DEL PARQUE
+     349ESTABLECIMIENTO GER. GERUSIA II                                       JOSE PEDRO VARELA                         3845VOLONT?NESTOR HUGO                                                  VILLA DEVOTO
+     536GER. GERUSIA II                                                       VARELA                                    3845VOLONT?NESTOR HUGO                                                  VILLA DEVOTO
+      30RES. GER. JULIA 2                                                     ARGERICH                                  2866BENAVIDEZ SILVIA                  15-5057-4121                      VLLA DEL PARQUE
+     262MASOGO                                                                ESPINOSA                                  2047ADRIANA MUÑIZ                     15-6155-4283                      PATERNAL
+     432VILLA GRAÑO                                                           PAREJA                                    4473LIZASO ESTEBAN                    15-5057-4121
+     411RES. PARA MAYORES EL PINAR DE DEVOTO                                  NAVARRO                                   3895LIZASO ESTEBAN                    15-5057-4121
+     263GER. GERUSIA                                                          ESPINOSA                                  2230COEN VERONICA                     15-5119-9964
+     383LA CASA DE MIS ABUELOS                                                MARIO BRAVO                                651BERCOVSKY JORGE EDUARDO           15-5827-0062                      ALMAGRO
+     463RES. SAN NICOLAS                                                      RICARDO GUTIERREZ                         3366BOURET CARLOS                     4631-8409                         VLLA DEL PARQUE
+     326EL HOGAR DE LOS ABUELOS                                               HABANA                                    4452LIZASO ESTEBAN                    15-5057-4121
+     293DEL VALLE                                                             GALLO                                      734BADALUCCO MARIANO                                                   ALMAGRO
+     264RES. GER. LA AMISTAD                                                  ESPINOSA                                  2515LIZASO ESTEBAN                    15-5057-4121
+     427ARQUIMEDICA SRL                                                       PALESTINA (EX RAWSON)                      838CERVERA ROBERTO HUGO              4545-7331                         ALMAGRO
+      87EST. GER. DE ENRIQUE C. TOPPANO                                       AV JOAQUIN V. GONZALEZ                    3691CISNEROS NILDA JUSTA              15-4048-4958                      VILLA DEVOTO
+     341ENRIQUE CLAUDIO TOPPANO                                               JOAQUIN V. GONZALEZ                       3691CISNEROS NILDA JUSTA              15-4048-4958                      VILLA DEVOTO
+     320GER. EL REFUGIO                                                       GUARDIA VIEJA                             4016ADRIANA MUÑIZ                     15-6155-4283                      ALMAGRO
+     319EN FAMILIA                                                            GUARDIA VIEJA                             4038LIZASO ESTEBAN                    15-5057-4121
+     115REMANSO DE TOSO SRL                                                   AV S. MARIA DEL CARRIL                    4151LIZASO ESTEBAN                    15-5057-4121
+     279GER. DE MARIA ELENA RODRIGUEZ                                         F. ACUÑA DE FIGUEROA                       926CALBO PABLO DANIEL                4782-3356/15-5503-7304            ALMAGRO
+     327LA MISION                                                             HABANA                                    4321LIZASO ESTEBAN                    15-5057-4121
+       1RES. 12 DE OCTUBRE DE NORMA ADRIANA SOLARI                            12 DE OCTUBRE                             1665ROMAGNOLI                         4301-6695
+     321DORA MERCEDES SPALT                                                   GUARDIA VIEJA                             4563ROMERO NESTOR DANIEL              15-5961-9164                      ALMAGRO
+     535LA MAISON BLANC DE EDUARDO SANTIAGO GROSSO                            VALLEJOS                                  4419MINOTTI CARLOS AGUSTIN            4523-4889                         VILLA DEVOTO
+     394SAN CARLOS                                                            MELINCUE                                  2723BERCOVSKY JORGE EDUARDO           15-5827-0062                      VLLA DEL PARQUE
+     524LA CASA DE TUCUMAN                                                    TUCUMAN                                   3640SUCHMON LEANDRO                   15-5428-5184/4901-6193            ALMAGRO
+      96RES. DE OTOÑO S.R.L.                                                  AV LINCOLN                                4268FLORIO EDUARDO MARIO              15-4419-9699                      VILLA DEVOTO
+     527LA ROSA BLANCA                                                        TUCUMAN                                   3629BADALUCCO MARIANO                                                   ALMAGRO
+     161CASA AZUL S.R.L.                                                      BOULOGNE SUR MER                           954PADILLA JAVIER SANTIAGO           4961-9056                         BALVANERA
+     523SAN GERVASIO SRL                                                      TUCUMAN                                   3738MINOTTI CARLOS AGUSTIN            4523-4889                         ALMAGRO
+     525GER. SAN FRANCISCO                                                    TUCUMAN                                   3764ROMAGNOLI                         4301-6695
+     342GLADYS BEATRIZ ALVAREZ                                                JOAQUIN V. GONZALEZ                       4015CARNEVALE MABEL                   5252-0909/15-5247-4239            VILLA DEVOTO
+       5STELLA MARIS                                                          ACEVEDO                                    356CUENCA GUILLERMO JUAN             4797-8032                         VILLA CRESPO
+      28ARGERICH                                                              ARGERICH                                  3258LIZASO ESTEBAN                    15-5057-4121
+     526DANIEL H PICCOLI ESTABLEC GER. SAN GERVASIO                           TUCUMAN                                   3837FEIJOO CARLOS NORBERTO            15-5185-3261                      ALMAGRO
+     113LA MANSION DE LAS SIETE ESTRELLAS                                     AV S. MARIA DEL CARRIL                    3798LIZASO ESTEBAN                    15-5057-4121
+     438ST ANDRES S.R.L                                                       PEDRO LOZANO                              2747CARNEVALE MABEL                   5252-0909/15-5247-4239            VLLA DEL PARQUE
+     428CENTRO DE GERIATRIA DEL NORTE SA                                      PARAGUAY                                  2367MINOTTI CARLOS AGUSTIN            4301-6695
+     393OSVALDO MARCELINO CONDE                                               MELINCUE                                  2480MARQUES DIAS RAFAEL GUSTAVO       4629-8461/15-4531-4674            VLLA DEL PARQUE
+     430GER. CARPE DIEM                                                       PARAGUAY                                  2426MINOTTI CARLOS AGUSTIN            4523-4889                         RECOLETA
+     429INST. GER. DE REHABILITACION INTEGRAL II                              PARAGUAY                                  2465MINOTTI CARLOS AGUSTIN            4523-4889                         RECOLETA
+     431GER. MATER DE SANT S.A.                                               PARAGUAY                                  2512ROMAGNOLI                         4301-6695
+     177CAMARGO                                                               CAMARGO                                    880HERMIDA DIEGO RODOLFO             15-6520-6678                      VILLA CRESPO
+       8RES. GER. STA MARIA DEL BUEN AYRE                                     AGUERO                                    1056LIZASO ESTEBAN                    15-5057-4121
+     410RES. GER. NORMANDY                                                    NAVARRO                                   3277LIZASO ESTEBAN                    15-5057-4121
+     328GER. DEL ROSARIO                                                      HELGUERA                                  3458LIZASO ESTEBAN                    15-5057-4121
+     461SUSANA ELISA SAJNIN                                                   RAMIREZ DE VELAZCO JUAN                    646SUAREZ ALEJANDRO D.               15-6534-5189                      VILLA CRESPO
+     123HOGAR SAN MARTIN DEL MINISTERIO DE DESARROLLO SOCIAL                  AV WARNES                                 2650PUGENER ANDREA LORENA                                               PATERNAL
+      58CALIDAD A LOS AÑOS                                                    AV CORDOBA                                4200CERVERA ROBERTO HUGO              4545-7331                         VILLA CRESPO
+     114RES GER. ALTOS DEL BOULEVARD                                          AV S. MARIA DEL CARRIL                    3601LIZASO ESTEBAN                    15-5057-4121
+     116ALTOS DEL BOULEVARD                                                   AV S. MARIA DEL CARRIL                    3591LIZASO ESTEBAN                    15-5057-4121
+     315LAS LILAS                                                             GRAL. LUCIO N.MANSILLA                    2632MINOTTI CARLOS AGUSTIN            4523-4889                         RECOLETA
+     307GORRITI                                                               GORRITI                                   3868HERMITTE ENRIQUE L.                                                 PALERMO
+     502ROSSJANSKI SILVIO DANIEL                                              SERRANO                                    627SUAREZ ALEJANDRO D.               15-6534-5189                      VILLA CRESPO
+     351DR. RICARDO OVEJERO                                                   JULIAN ALVAREZ                            1180MARASCO JOSE ENRIQUE              4629-2905                         PALERMO
+     367RES. GER. SAN GABRIEL                                                 LAVALLEJA                                 1352ARIAS ANDRES LEONARDO                                               PALERMO
+      26PERCIBIR EL TIEMPO SRL                                                ARENALES                                  2131MINOTTI CARLOS AGUSTIN            4523-4889                         RECOLETA
+     532ASISGER S.R.L.                                                        URUGUAY                                   1216PADILLA JAVIER SANTIAGO           4961-9056                         RECOLETA
+       6GER. LA CASA DE LA BOBE                                               ACEVEDO                                    950CERVERA ROBERTO HUGO              4545-7331                         VILLA CRESPO
+      24ASOC. HELENICA DE SOCORROS MUTUOS SAN DEMETRIO                        ARAOZ                                     1328LITVAK NESTOR RUBEN               15-5228-1292                      PALERMO
+     355MIAMI HOUSE SRL                                                       JUNCAL                                     857KURZ CARLOS                       4862-5282                         RETIRO
+     441ILUVATAR S.R.L.                                                       PEÑA                                      2138MINOTTI CARLOS AGUSTIN            4523-4889                         RECOLETA
+     260GER. SAN MARINO                                                       EMILIO LAMARCA                            4841ADRIANA MUÑIZ                     15-6155-4283                      VILLA DEVOTO
+     220ASOC. CIVIL ARMENIA DE BENEFICENCIA                                   CNEL NICETO VEGA                          5036CERIMEDO CARLOS ALFREDO           15-6274-9504                      PALERMO
+     501NUEVA SERRANIA S.R.L.                                                 SERRANO                                   1378MINOTTI CARLOS AGUSTIN            4523-4889                         PALERMO
+     354MEDIGER SRL                                                           JUNCAL                                    2676PADILLA JAVIER SANTIAGO           4961-9056                         RECOLETA
+     291PAWEN S.R.L.                                                          FRENCH                                    2613MINOTTI CARLOS AGUSTIN            4523-4889                         RECOLETA
+      32CUMELEN                                                               ARMENIA                                   1675ADRIANA MUÑIZ                     15-6155-4283                      PALERMO
+     352GER. NTRA SRA DE GUADALUPE3 S A                                       JULIAN ALVAREZ                            2215ROMAGNOLI                         4301-6695
+     373GERIATRIKA S.R.L. HOGAR LOYOLA                                        LOYOLA                                    1545GORRIZ JUAN CRUZ                                                    CHACARITA
+     324LOPEZ SILVANA CENTRO GER. DORREGO SRL                                 GUEVARA                                    311GARCIA NORBERTO G.                                                  CHACARITA
+     144NUESTRO TIEMPO                                                        BAUNESS                                   1265MINOTTI CARLOS AGUSTIN            4523-4889                         PARQUE CHAS
+     284GER. JARDIN DELSOL DE MARIANO QUIROGA                                 FRANCO                                    3429FRANCO MARCELO DANIEL             15-3876-3313                      VILLA DEVOTO
+     494NUESTRO HOGAR                                                         SANTOS DUMONT                             3640CLAUDEPIERRE JAVIER SIGFRIDO      11-6049-2860                      CHACARITA
+     145GER. VICTORIA                                                         BEHRING                                   2555RODRIGUEZ ROSI ROBERTO            4307-7452                         PARQUE CHAS
+     486RES. BUSTAMANTE S.A.                                                  SANCHEZ DE BUSTAMANTE                     2534LIZASO ESTEBAN                    15-5057-4121
+     202INST. SERRANO DE NUCERA OLGA Y F. RODOLFO                             CHARCAS                                   4278CERIMEDO CARLOS ALFREDO           15-6274-9504                      PALERMO
+      80RES. GER. BRISAS                                                      AV GRAL. MOSCONI                          2536LIZASO ESTEBAN                    15-5057-4121
+     519HOGAR DE ANCIANOS ABU                                                 THAMES                                    2225CERVERA ROBERTO HUGO              4545-7331                         PALERMO
+     215HOGAR GER. SAN CAYETANO                                               CONDARCO                                  4848GOMEZ NESTOR OMAR                 15-5429-2235                      VILLA PUEYRREDON
+     232EL RINCON DE LOS ABUELOS                                              CUENCA                                    5366AIROLI ALEJANDRO                  15-5410-5368
+     179GER. JAZMIN                                                           CAMPANA                                   5459BERCOVSKY JORGE EDUARDO           15-5827-0062                      VILLA PUEYRREDON
+     420ESTABLECIMIENTO GER. SAN JORGE                                        OLLEROS                                   3718LIZASO ESTEBAN                    15-5057-4121
+     530FINOSA S.R.L                                                          UGARTECHE                                 2815MINOTTI CARLOS AGUSTIN            4523-4889                         PALERMO
+     325ALTOS DEL BOTANICO SRL                                                GURRUCHAGA                                2458MINOTTI CARLOS AGUSTIN            4523-4889                         PALERMO
+     140RES. PARA ADULTOS MAYORES LA FUENTE                                   BARZANA                                   1845KLOPP EDUARDO                     4392-4256                         VILLA URQUIZA
+      34DIAZ, TRANSITO MARIA DEL VALLE                                        ATENAS                                    2830CARNEVALE MABEL                   5252-0909/15-5247-4239            PARQUE CHAS
+      37INST. NTRA SRA. DE LA NIEVES S.R.L                                    AV ALVAREZ THOMAS                          268TILL PABLO ELIAS                  15-4421-6549                      CHACARITA
+     318AUGUSTUM                                                              GRIVEO                                    2475LIZASO ESTEBAN                    15-5057-4121
+     413PLAZA ITALIA DE SEBASTIAN MOREL                                       NICARAGUA                                 5701MINOTTI CARLOS AGUSTIN            4523-4889                         PALERMO
+     359LA PAMPA 5277 SRL                                                     LA PAMPA                                  5277LIZASO ESTEBAN                    15-5057-4121
+     165ABUELA GRANDE                                                         BUCARELLI                                 1902CERVERA ROBERTO HUGO              4545-7331                         VILLA URQUIZA
+     203DESPERTARES                                                           CHARLONE                                  2063BERCOVSKY JORGE EDUARDO           15-5827-0062                      VILLA ORTUZAR
+      20RES. GER. SAN EXPEDITO                                                ALTOLAGUIRRE                              2059LIZASO ESTEBAN                    15-5057-4121
+     448PLAZA MAYOR                                                           PLAZA                                     1223CAUMO MARIANO                     4632-1736/1158                    VILLA ORTUZAR
+      59RES. PALERMO CHICO                                                    AV CNEL DIAZ                              3856SEBASTIAN RUBEN ARGENTINO JOSE    4794-1450/15-4422-7668            PALERMO
+      79RES. NUEVO HOGAR                                                      AV GRAL. B. VICTORICA                     2330CERVERA ROBERTO HUGO              4545-7331                         PARQUE CHAS
+     301HOGAR DE ANCIANOS DE S. MANGANARO                                     GRAL BENJAMIN VICTORIA                    5366ROMERO HUGO ALBERTO               15-5014-2402/15-5410-5368/4585-468PARQUE CHAS
+     421OLZA SRL                                                              OLLEROS                                   3288SERPERO SILVINA                   3526-5394/15-5713-8785            COLEGIALES
+     139GER. LA LAGUNA DORADA                                                 BARZANA                                   2138LIZASO ESTEBAN                    15-5057-4121
+     186ESTABLECIMIENTO GER. CARACAS                                          CARACAS                                   5089LIZASO ESTEBAN                    15-5057-4121
+     141LA LAGUNA AZUL                                                        BAUNES                                    2045LIZASO ESTEBAN                    15-5057-4121
+     316LOS ENEBROS S.A.                                                      GREGORIA PEREZ                            3460CARNEVALE MABEL                   5252-0909/15-5247-4239            COLEGIALES
+     314URGE                                                                  GRAL. JOSE G. DE ARTIGAS                  5393RODRIGUEZ JOSE MARIA              15-6115-7062                      VILLA PUEYRREDON
+     374RES. DEL LIBERTADOR S.R.L.                                            LUGONES                                   1678CARNEVALE MABEL                   5252-0909/15-5247-4239            VILLA ORTUZAR
+     143INST. GER. RENACER                                                    BAUNESS                                   2112SUAREZ MARCOS ANDRES              4502-5990/15-5744-9335            VILLA URQUIZA
+     515GER. STAR EN CASA                                                     TEODORO GARCIA                            3222COEN VERONICA                     15-5119-9964
+     234RES. GER. HOSTAL CULLEN                                               CULLEN                                    5849MINOTTI CARLOS AGUSTIN            4523-4889                         VILLA URQUIZA
+      19RES. AMISTADES                                                        ALTOLAGUIRRE                              2372MINOTTI CARLOS AGUSTIN            4523-4889                         VILLA URQUIZA
+     242GER. OTRO ESTILO                                                      DONADO                                    1660MINOTTI CARLOS AGUSTIN            4523-4889                         VILLA ORTUZAR
+     250LOS DIAMANTES II                                                      DR. P. IGNACIO RIVERA                     5873ROCCHI JOSE  R.                   15-5713-7367
+     331ESTABLECIMIENTO GER. NTRA SRA DE LOURDES                              HOLMBERG                                  1630LIZASO ESTEBAN                    15-5057-4121
+     504VULFO S.R.L.                                                          SOLER                                     6083QUINN GUILLERMO                   15-6092-7719                      PALERMO
+     289SANTA CECILIA                                                         FREIRE RAMON CAPITAN GRAL                  834KOFFMAN OSVALDO EUGENIO                                             COLEGIALES
+      36EL REMANSO DE LOS ABUELOS SRL                                         AV ALBARELLOS                             2673DEVOTO JORGE DAVID                                                  VILLA PUEYRREDON
+     516SAN MARCOS                                                            TEODORO GARCIA                            3056LIZASO ESTEBAN                    15-5057-4121
+     102MONROE                                                                AV MONROE                                 5338HOLM ALEJANDRO EDUAROO            15-5620-5960                      VILLA URQUIZA
+     200BEIT AVOT SRL                                                         CESPEDES                                  3135MINOTTI CARLOS AGUSTIN            4523-4889                         COLEGIALES
+     142GER. LA CASONA DEL NONO                                               BAUNESS                                   2316CERVERA ROBERTO HUGO              4545-7331                         VILLA URQUIZA
+     151TU FAMILIA                                                            BLANCO ENCALADA                           5080POLA GUSTAVO CESAR                15-6114-1974/4962-5306            VILLA URQUIZA
+     424OLIMPIA RES. PARA MAYORES SRL                                         PACHECO                                   2124MINOTTI CARLOS AGUSTIN            4523-4889                         VILLA URQUIZA
+      52LE PARC                                                               AV CERVIÑO                                4658MINOTTI CARLOS AGUSTIN            4523-4889                         PALERMO
+     253STA MARIA DE MARIA ELENA AGUADERO                                     DR. P. IGNACIO RIVERA                     5602LIZASO ESTEBAN                    15-5057-4121
+     101RES. CASA AZUL                                                        AV LUIS MARIA CAMPOS                       180MINOTTI CARLOS AGUSTIN            4523-4889                         PALERMO
+     252RES. GER. LA FUENTE AZUL                                              DR. P. IGNACIO RIVERA                     5577LIZASO ESTEBAN                    15-5057-4121
+     201ALU                                                                   CESPEDES                                  3016ESPINOSA JOSE CARLOS              15-6050-7553                      COLEGIALES
+     204GER. VITASOL DE BOZUGI S.RL.                                          CIUDAD DE LA PAZ                           368PFEFFERMAN RUBEN JULIO                                              PALERMO
+     206MOHOO S.R.L.                                                          CIUDAD DE LA PAZ                           368PFEFFERMAN RUBEN JULIO                                              PALERMO
+     225MEDICAL VIEW SRL                                                      CRAMER                                     668MINOTTI CARLOS AGUSTIN            4523-4889                         COLEGIALES
+     548FAUSTINO LUIS GARCIA                                                  VIRREY DEL PINO                           3599MINOTTI CARLOS AGUSTIN            4523-4889                         BELGRANO
+     493ANTAEUS                                                               SANTOS DUMONT                             2338MAGGIO FABIAN ALEJANDRO           15-5029-4566                      PALERMO
+      48HOGAR CONSTANZA S.A.                                                  AV CABILDO                                 288MINOTTI CARLOS AGUSTIN            4523-4889                         PALERMO
+      62AYELEN                                                                AV DE LOS CONSTITUYENTES                  5933CERVERA ROBERTO HUGO              4545-7331                         VILLA URQUIZA
+      10MACAMAX S.A.                                                          AIZPURUA                                  3163ZWIEBEL MARCELO                   4703-5994/96                      VILLA URQUIZA
+     546VIDA DIGNA S.A.                                                       VIRREY ARREDONDO                          2960MINOTTI CARLOS AGUSTIN            4523-4889                         COLEGIALES
+      54RES.  GER. URQUIZA                                                    AV CONGRESO                               5466LIZASO ESTEBAN                    15-5057-4121
+     166LA CASA DEL SOL                                                       BUCARELLI                                 2932LIZASO ESTEBAN                    15-5057-4121
+     551SAN JOSE                                                              WASHINGTON                                1910DIAZ CORIA BERNABE GUIDO          15-6093-4814                      BELGRANO
+     254GER. OSCAR DECAL                                                      DR. P. IGNACIO RIVERA                     4921                                                                    VILLA URQUIZA
+     184GER. MARIA REYNA II                                                   CAPITAN GRAL RAMON FREIRE                 1673ADRIANA MUÑIZ                     15-6155-4283                      BELGRANO
+      21INST. GER. IRMA                                                       ALVAREZ THOMAS                            3291LIZASO ESTEBAN                    15-5057-4121
+      11VILLA MAYOR RES. RUBEN S. ROISMAN                                     AIZPURUA                                  3338FANDI? MARTIN SANTIAGO            15-5865-7958                      VILLA URQUIZA
+      63APART INCAS S.A.                                                      AV DE LOS INCAS                           3093MINOTTI CARLOS AGUSTIN            4523-4889                         BELGRANO
+     514GER. SAN ROMAN S.R.L.                                                 TEODORO GARCIA                            2458BLANCO RUBEN JOSE                 15-4947-1562
+     207RES. GER. LA MIRAGE                                                   CIUDAD DE LA PAZ                           950LIZASO ESTEBAN                    15-5057-4121
+     556RES. PARA MAYORES HOGAR GER.                                          ZABALA                                    2675BOIDI JOSE MARIA                  4524-2197
+     183CAMPOS MIGUEL ANGEL                                                   CAPDEVILA                                 2940SOUTO EDUARDO                     15-4141-4077                      VILLA URQUIZA
+     387GER. SAN BENITO DEL PILAR                                             MAURE                                     2175ARIAS ANDRES LEONARDO                                               PALERMO
+     226HOGAR SCHONBRUNN S.R.L.                                               CRAMER                                    1674RASTELLI NESTOR                   15-4478-9660                      COLEGIALES
+     205BANG BIG SA                                                           CIUDAD DE LA PAZ                          1051MINOTTI CARLOS AGUSTIN            4523-4889                         COLEGIALES
+     549LIFE AND HEALTH S.R.L.                                                VIRREY LORETO                             2656ADRIANA MUÑIZ                     15-6155-4283                      COLEGIALES
+       9BELGRANO                                                              AGUILAR                                   2438ADRIANA MUÑIZ                     15-6155-4283                      COLEGIALES
+     358FERNANDEZ BEATRIZ AURELIA                                             LA PAMPA                                  3119GOMEZ DANIEL A.                   15-4071-6629                      BELGRANO
+     270SAN BENITO                                                            ESTOMBA                                   2421MINOTTI CARLOS AGUSTIN            4523-4889                         VILLA URQUIZA
+     248SAN ANTONIO                                                           DR. P. IGNACIO RIVERA                     4318CERVERA ROBERTO HUGO              4545-7331                         VILLA URQUIZA
+      76CENTRO GER. BELGRANO S.R.L.                                           AV FEDERICO LACROZE                       2154CERVERA ROBERTO HUGO              4545-7331                         PALERMO
+     167LAGUNA DORADA S.R.L.                                                  BUCARELLI                                 3343SZWEDAK JORGE LUIS                15-4426-2501                      VILLA URQUIZA
+     295GER. GALVAN (LAUBERGE S.A.)                                           GALVAN                                    3052MINOTTI CARLOS AGUSTIN            4523-4889                         VILLA URQUIZA
+     384GER. MODELO DEL PALMAR S.A.                                           SUCRE                                     3001MINOTTI CARLOS AGUSTIN            4523-4889                         BELGRANO
+      56GER. SAN AGUSTIN                                                      AV CONGRESO                               4660CUENCA GUILLERMO JUAN             4797-8032                         VILLA URQUIZA
+      75GER. SER VITAL                                                        AV FEDERICO LACROZE                       2074MINOTTI CARLOS AGUSTIN            4523-4889                         PALERMO
+     356ESTABLECIMIENTO GER.                                                  JURAMENTO                                 3184CERVERA ROBERTO HUGO              4545-7331                         BELGRANO
+     255INST. COGHLAN S.R.L                                                   DR. P. IGNACIO RIVERA                     3975PFEFFERMAN RUBEN JULIO                                              COGHLAN
+     555GER. ZABALA                                                           ZABALA                                    1945ADRIANA MUÑIZ                     15-6155-4283                      BELGRANO
+      22EL HOGAR S.A.                                                         ANDONAEGUI                                3586PERNOT MARIO                      15-4147-2650
+     416EL JARDIN DE LOS ABUELOS                                              NUÑEZ                                     5346LIZASO ESTEBAN                    15-5057-4121
+     541DE LOS SANTOS                                                         VIDAL                                     2127ROMAGNOLI                         4301-6695
+     357GER. RES. DEL SOL S.R.L.                                              LA PAMPA                                  2184ROMAGNOLI                         4301-6695
+     249QUO VADIS DE NORBERTO CARUSO                                          DR. P. IGNACIO RIVERA                     3238ROMERO NESTOR DANIEL              15-5961-9164                      COGHLAN
+     385STELLA MARIS                                                          MCAL ANTONIO JOSE DE SUCRE                1835DALMASSO JUAN CARLOS              15-5726-7345/4786-3741            BELGRANO
+     544HOGAR MODELO VIDAL                                                    VIDAL                                     2560RODRIGUEZ JOSE MARIA              15-6115-7062                      BELGRANO
+     251GER. SAN JORGE DE SERGIO MILLER                                       DR. P. IGNACIO RIVERA                     2940ROMAGNOLI                         4301-6695
+       3CLUB RES.L FLOR DE LIS                                                3 DE FEBRERO                              2115ALIMENA EDUARDO NAHUEL            15-4421-9217                      BELGRANO
+     376GERONTA S.A.                                                          MANUEL UGARTE                             2954VITA EDUARDO                      4790-4399                         BELGRANO
+      57CADOR                                                                 AV CONGRESO                               3115COLLADO RODRIGO                   15-5893-8506                      COGHLAN
+     542GER. DEL SOL                                                          VIDAL                                     2750MINOTTI CARLOS AGUSTIN            4797-8032                         BELGRANO
+     392OYOLI S.A.                                                            MELIAN                                    3250ZWIEBEL MARCELO                   4703-5994/96                      COGHLAN
+     377NUEVA VIDA Y NUEVO HOGAR S.A.                                         MANUEL UGARTE                             2845MINOTTI CARLOS AGUSTIN            4523-4889                         BELGRANO
+     339GER. RENACER                                                          JARAMILLO                                 4464BRULLO LEONARDO                   15-5750-2204
+      60HOSTAL CRAMER S.R.L.                                                  AV CRAMER                                 2966ROMERO FACUNDO NICOLAS            15-5695-3957                      NUÑEZ
+     417ANGEL MIGUEL DELLA VECCNIA                                            O'HIGGINS                                 2555ALIMENA EDUARDO NAHUEL            15-4421-9217                      BELGRANO
+      55NUR SA                                                                AV CONGRESO                               2337CADEL ANDREA VIVIANA              4780-5554                         NUÑEZ
+     227MFM CRAMER S.R.L.                                                     CRAMER                                    3216LEDESMA GERARDO ARIEL             15-6397-5514                      NUÑEZ
+     149PARRA DANIEL                                                          BLANCO ENCALADA                           1630PEREZ LIDIA HAYDEE                4636-3812/15-5825-5024            BELGRANO
+     269MONICA BEATRIZ GURRIERI                                               ESTOMBA                                   4225MINOTTI CARLOS AGUSTIN            4523-4889                         SAAVEDRA
+     550GUARANI                                                               VUELTA DE OBLIGADO                        3473LIZASO ESTEBAN                    15-5057-4121
+     433CONGREGACION CASA DE HNAS DE LOS POBRES DE SANTA CATALINADE SIENA     PAROISSIEN                                3057CARRIERI MISAEL JOSE              15-4163-2400
+     545HOGAR GER. BELGRANO R                                                 VILELA                                    2672GRIFFO MATIAS                     15-5339-2274                      SAAVEDRA
+     378GER. MANZANARES DEL SOL                                               MANZANARES                                2036LIZASO ESTEBAN                    15-5057-4121
+     185AZUL AZUL                                                             CAPITAN GRAL RAMON FREIRE                 4662ADRIANA MUÑIZ                     15-6155-4283                      SAAVEDRA
+      47RES. CABILDO PAMI                                                     AV CABILDO                                4351GAETA ALBERTO                     4345-1275
+     538DEL SOLAR                                                             VEDIA                                     3250LIZASO ESTEBAN                    15-5057-4121
+     537AMANECER                                                              VEDIA                                     2371COEN VERONICA                     15-5119-9964
+     173INST. GER. CAFAYATE SA                                                CAFAYATE                                  1542GARCIA NORBERTO                   15-5002-6993                      MATADEROS
+     266RES. GER. RINCON DEL SOL DE ELBA DIANA CASCA                          ESQUIU                                    1120LIZASO ESTEBAN                    15-5057-4121
+     365SANTA PAULA                                                           LAS PALMAS                                2452LIZASO ESTEBAN                    15-5057-4121
+     508RES. CASA DE LOS ABUELOS                                              TAFI                                       162HERMIDA DIEGO RODOLFO             15-6520-6678                      LINIERS
+      93LA CANELA                                                             AV LACARRA                                 206ROMERO NESTOR DANIEL              15-5961-9164                      VELEZ SARSFIELD
+     135HOGAR FAMILIA BARRAGAN                                                BARRAGAN                                   264BERCOVSKY JORGE EDUARDO           15-5827-0062                      LINIERS
+     510RES. EBEN-EZER                                                        TANDIL                                    2508LIZASO ESTEBAN                    15-5057-4121
+      14RES. GER. MI LUGAR                                                    ALBERTI                                   2012COLLADO RODRIGO                   15-5893-8506                      PARQUE PATRICIOS
+     283SAN BRUNO                                                             FRANCISCO BILBAO                          2124LATAPIE LILIANA BEATRIZ           15-5414-8082
+     195GER. SAGRADA FAMILIA                                                  CASTRO BARROS                             1728ARIAS ANDRES LEONARDO                                               BOEDO
+     309GER. MIRAFLORES                                                       GOYA                                       160MINOTTI CARLOS AGUSTIN            15-6965-0448                      VELEZ SARSFIELD
+     219JORGE SANCHEZ RAMUNDO                                                 CNEL ESTEBAN BONORINO                      275CARNEVALE MABEL                   5252-0909/15-5247-4239            FLORES
+     478JUAN ANTONIO ALVAREZ FANEGO                                           SAN NICOLAS                                159CARNEVALE MABEL                   5252-0909/15-5247-4239            FLORESTA
+      38RUBEN CARLOS GENONI                                                   AV AVELLANEDA                             3967GUELER RUBEN HORACIO              4833-5900                         FLORESTA
+     415EN CASA                                                               NICOLAS E. VIDELA                          530BADALUCCO MARIANO                                                   CABALLITO
+     261NIVEL DE GERIHOGARES                                                  EMILIO MITRE                               223LIZASO ESTEBAN                    15-5057-4121
+     192GER. L HIRONDELLE                                                     CASTRO                                     825GRIFFO MATIAS NICOLAS             15-5339-2274                      BOEDO
+     434EDITH                                                                 PJE JUAN F. DE LA ROBLA                    990MINOTTI CARLOS AGUSTIN            4523-4889                         FLORES
+     477LE BOSQUET DE PICDAN S.R.L                                            SAN NICOLAS                               1278CERVERA ROBERTO HUGO              4545-7331                         VILLA SANTA RITA
+     299GER. GAVILAN                                                          GAVILAN                                    772ROMAGNOLI                         4301-6695
+     244GER. NEUQUEN                                                          DR. GREGORIO ARAOZ ALFARO                  258ADRIANA MUÑIZ                     15-6155-4283                      CABALLITO
+      88PABLO MANUEL ROSSETTI                                                 AV JUAN B. JUSTO                          4870GOMEZ DANIEL A.                   15-4071-6629                      VILLA GRAL. MITRE
+     230RUBEN RAMIRO PASCUAL MERAYO                                           CUCHA CUCHA                               1026MINOTTI CARLOS AGUSTIN            4523-4889                         CABALLITO
+      18HOGAR DEL ROSARIO                                                     ALMIRANTE F. J. SEGUI                     1429PFEFFERMAN RUBEN JULIO                                              CABALLITO
+     518GER. MARIA LUZ BRILLAND                                               TERRERO                                   1740ROMERO NESTOR DANIEL              15-5961-9164                      VILLA GRAL. MITRE
+      86PARA ADULTOS MAYORES NUEVOS TIEMPOS                                   AV J.D.PERON                              4043ROMAGNOLI                         4301-6695
+     353DEL JAZMIN                                                            JULIAN ALVAREZ                             224LIZASO ESTEBAN                    15-5057-4121
+     216HOSTAL C.A.I.P. VILLA DEL PARQUE S.R.L.                               CONDARCO                                  3038KOFFMAN OSVALDO EUGENIO                                             VLLA DEL PARQUE
+     476BAFFICO HORACIO Y TORINO GUILLERMO                                    SAN MARTIN                                5370MOSQUERA ADRIAN HUGO              15-5990-7241                      VLLA DEL PARQUE
+     294SANTA SOFIA                                                           GALLO                                     1268MINOTTI CARLOS AGUSTIN            4523-4889                         RECOLETA
+      25GERIALEPH                                                             ARENALES                                  2445UCAR ALFREDO E.                   15-3617-3566                      RECOLETA
+     237DR ALBERT SCHWEITZER                                                  DARWIN                                     860PICK PATRICIA                     15-4400-0847
+     323CLUB TINITENSE RES. ASTURIANA                                         GUEVARA                                     34NOEL LEONARDO OSCAR               4943-6310/15-6563-6929            CHACARITA
+     290GERIFRENCH                                                            FRENCH                                    2826LIZASO ESTEBAN                    15-5057-4121
+     531INST. GER. DR. SILVA                                                  URIARTE                                   1626LIZASO ESTEBAN                    15-5057-4121
+     148INST. GER. DE REHAB. INTEGRAL I                                       BILLINGHURST                              2180MINOTTI CARLOS AGUSTIN            4523-4889                         RECOLETA
+     168RES. GER. NTRA SEÑORA DE LOURDES                                      BURELA                                    1862LIZASO ESTEBAN                    15-5057-4121
+     296RES. GER. KFAR SABIM                                                  GANDARA                                   2465OKS HORACIO NARCISO               15-5012-0894                      PARQUE CHAS
+     169LAS GLICINAS                                                          BURELA                                    2095LIZASO ESTEBAN                    15-5057-4121
+     364GER. EL SOL                                                           LARSEN                                    2594CERVERA ROBERTO HUGO              4545-7331                         VILLA PUEYRREDON
+     233GER. MARIA CONTE MUR                                                  CULLEN                                    5478LIZASO ESTEBAN                    15-5057-4121
+     409PILAR VAZQUEZ LOPEZ DE VILARIÑO                                       NAHUEL HUAPI                              5581CARNEVALE MABEL                   5252-0909/15-5247-4239            VILLA URQUIZA
+     425MIRABELLA TAIBI Y VILARIÑO S.R.L.                                     PACHECO                                   2271MINOTTI CARLOS AGUSTIN            4523-4889                         VILLA URQUIZA
+     150RES. PARA ABUELOS MILAGROS DE MARIA                                   BLANCO ENCALADA                           4781FAVETTO GRACIELA CRISTINA         4753-2859                         VILLA URQUIZA
+     423SANTA MARIA CAMIR                                                     PACHECO                                   2325FAVETTO GRACIELA CRISTINA         4753-2859                         VILLA URQUIZA
+     257GER. SAN MARCOS                                                       ECHEVERRIA                                3434LIZASO ESTEBAN                    15-5057-4121
+     103GER. EL SOLAR III                                                     AV MONROE                                 4035CERVERA ROBERTO HUGO              4545-7331                         VILLA URQUIZA
+     533SAN CONO                                                              VALDENEGRO                                3030SOUTO EDUARDO                     15-4141-4077                      VILLA URQUIZA
+     552EL HOGAR DEL SOL                                                      WASHINGTON                                2470MINOTTI CARLOS AGUSTIN            4523-4889                         BELGRANO
+     228GER. SAAVEDRA S.A.                                                    CRISOLOGO LARRALDE                        2625MINOTTI CARLOS AGUSTIN            4523-4889                         SAAVEDRA
+     446NTRA SEÑORA DE POMPEYA                                                PICO                                      2860COEN VERONICA                     15-5119-9964
+      53ESTABLECIMIENTO GER. LA NONA                                          AV COBO                                    683LIZASO ESTEBAN                    15-5057-4121
+     106GER. JHON-JHON                                                        AV PEDRO GOYENA                           1665NAZARO JUAN JOSE MARIA            15-5429-8470                      CABALLITO
+     297RES. GER. SUIZA SA                                                    GASCON                                     741CASTRO MARIO GABRIEL              15-6496-6758                      ALMAGRO
+     332INST. GER. DEL SOL                                                    HUMAHUACA                                 4037RASTELLI NESTOR                   15-4478-9660                      ALMAGRO
+     475RES. GER. OLDMAN SA                                                   SAN LUIS                                  2726GARCIA NORBERTO G.                                                  BALVANERA
+      27EL VITRAL                                                             ARENALES                                  3051LIZASO ESTEBAN                    15-5057-4121
+     543AVRIL                                                                 VIDAL                                     3568ADRIANA MUÑIZ                     15-6155-4283                      NUÑEZ
+     306GER. FERPANO S A                                                      GIORDANO BRUNO                             845GALLOTTO FERNANDO H.              15-4993-2814
+     147HOGAR DE ANCIANOS                                                     BERMUDEZ                                  2226SOLA EMILIO                       15-5378-3931                      MONTE CASTRO
+     104SAN GENARO II                                                         AV NAZCA                                   663CARNEVALE MABEL                   5252-0909/15-5247-4239            FLORES
+     444RES. PERU PAMI                                                        PERU                                      1457MAGNIN MARIO EDUARDO                                                SAN TELMO
+     209CARPE DIEM                                                            COCHABAMBA                                3279RASTELLI NESTOR                   15-4478-9660                      SAN CRISTOBAL

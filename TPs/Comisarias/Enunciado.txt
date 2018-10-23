@@ -1,0 +1,36 @@
+Comisarias
+==========
+
+1- Definir una estructura de datos que permita almacenar los datos de las comisarias
+2- Mostrar un menu principal que contenga las siguientes opciones:
+	a- Importar datos
+	b- Alta Nueva Comisaria 
+	c- Búsqueda Comisarias
+	d- Exportar Comisarias por Partido
+	e- Estadisticas de Comisarias por Partido
+	z- Salir
+
+3- Importar Datos: el sistema deberá importar todos los datos del archivo de texto "Comisarias.txt" y cargarlo en un vector de estructuras en memoria, reemplazando todos los datos existentes
+
+4- Alta Nueva Comisaria: el sistema solicitará al usuario los datos de la nueva comisaria y lo agregará en el vector en memoria en una posición libre
+
+5- La búsqueda de comisarias se realizará de la siguiente forma:
+	a- Solicitar al usuario el campo por el que desea buscar: 
+		1- Nombre
+		2- Representante
+	b- Realizar la búsqueda por el campo seleccionado con criterio "contiene"  
+	c- Mostrar la lista de comisarias encontradas en páginas (solamente las columnas ID, NOMBRE y REPRESENTANTE), haciendo una pausa cada 20 registros, donde el usuario ingresará "C" para continuar "V" para visualizar o "E" para editar. Si selecciona visualizar o editar, se le debe pedir el ID del registro a visualizar/editar.
+
+	d- Si seleccionó continuar mostrar la siguiente página de la lista de la misma forma que en el punto c
+
+	e- Si seleccionó editar mostrar el registro seleccionado y luego pedir campo a campo todos los datos, dando al usuario, de alguna forma, la opción de no modificarlo y que se mantengan los datos que el registro ya tiene. Al terminar de editar vuelve al menu principal.
+
+	f- Si seleccionó visualizar deberá mostrar todos los datos del registro seleccionado, al presionar una tecla para continuar vuelve al menu principal.
+
+6- Exportar Comisarias por Partido debe solicitar al usuario un partido y en base al partido ingresado guardar en un archivo de texto todas las comisarias del partido seleccionado	
+
+7- La estadística de comisarias por partido deberá mostrar por pantalla una tabla de dos columnas, en la primera el nombre del partido y en la segunda la cantidad de comisarias que hay en dicho partido.
+
+8- El sistema antes de salir deberá guardar los datos del vector en memoria en un archivo binario
+
+9- El sistema al abrir deberá cargar del archivo binario los datos del vector en memoria

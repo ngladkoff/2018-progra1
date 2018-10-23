@@ -1,0 +1,36 @@
+Establecimientos de Salud
+=========================
+
+1- Definir una estructura de datos que permita almacenar los datos de los establecimientos
+2- Mostrar un menu principal que contenga las siguientes opciones:
+	a- Importar datos
+	b- Alta Nuevo Establecimiento
+	c- Búsqueda Establecimiento
+	d- Exportar Establecimientos por Localidad
+	e- Estadisticas de Establecimientos por Localidad
+	z- Salir
+
+3- Importar Datos: el sistema deberá importar todos los datos del archivo de texto "EstablecimientosSalud.txt" y cargarlo en un vector de estructuras en memoria, reemplazando todos los datos existentes
+
+4- Alta Nuevo Establecimiento: el sistema solicitará al usuario los datos del nuevo establecimiento y lo agregará en el vector en memoria en una posición libre
+
+5- La búsqueda de establecimientos se realizará de la siguiente forma:
+	a- Solicitar al usuario el campo por el que desea buscar: 
+		1- Nombre
+		2- Localidad
+	b- Realizar la búsqueda por el campo seleccionado con criterio "contiene", ejemplo: si el usuario ingresa "Centro" debe encontrar, entre otros, Centro Oncológico Avellaneda y CERCA Centro de Rehabilitacion  
+	c- Mostrar la lista de establecimientos encontrados en páginas (solamente las columnas ID, NOMBRE y LOCALIDAD), haciendo una pausa cada 20 registros, donde el usuario ingresará "C" para continuar "V" para visualizar o "E" para editar. Si selecciona visualizar o editar, se le debe pedir el ID del registro a visualizar/editar.
+
+	d- Si seleccionó continuar mostrar la siguiente página de la lista de la misma forma que en el punto c
+
+	e- Si seleccionó editar mostrar el registro seleccionado y luego pedir campo a campo todos los datos, dando al usuario, de alguna forma, la opción de no modificarlo y que se mantengan los datos que el registro ya tiene. Al terminar de editar vuelve al menu principal.
+
+	f- Si seleccionó visualizar deberá mostrar todos los datos del registro seleccionado, al presionar una tecla para continuar vuelve al menu principal.
+
+6- Exportar Establecimientos por Localidad debe solicitar al usuario una localidad y en base a la localidad ingresada guardar en un archivo de texto todos los establecimientos de la localidad seleccionada	
+
+7- La estadística de establecimientos por localidad deberá mostrar por pantalla una tabla de dos columnas, en la primera el nombre de la localidad y en la segunda la cantidad de establecimientos que hay en dicha localidad.
+
+8- El sistema antes de salir deberá guardar los datos del vector en memoria en un archivo binario
+
+9- El sistema al abrir deberá cargar del archivo binario los datos del vector en memoria
