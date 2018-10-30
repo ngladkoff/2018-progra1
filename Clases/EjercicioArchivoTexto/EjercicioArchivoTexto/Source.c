@@ -26,9 +26,15 @@ int main(void) {
 	printf("Cantidad de Empleados cargados: %d\n", cantEmpleados);
 	system("pause");
 
-	printf("Emp gerencia: %d\n", ContarEmpGerencia(empleados, "Gerencia Comercial                                "));
+	//printf("Emp gerencia: %d\n", ContarEmpGerencia(empleados, "Gerencia Comercial                                "));
 
 	// ImprimirEmpleados(empleados, cantEmpleados);
+
+	char busqueda[100]= "a";
+
+	
+
+
 
 	system("pause");
 	return EXIT_SUCCESS;
@@ -50,6 +56,8 @@ int CargarEmpleados(tEmpleado *ptrEmpleado) {
 	int i = 0;
 	char strLinea[200];
 
+	char strLegajo[9];
+
 	f = fopen("c:\\temp\\empleadosArsat.txt", "r");
 
 	if (f == NULL)
@@ -63,13 +71,25 @@ int CargarEmpleados(tEmpleado *ptrEmpleado) {
 
 	while (!feof(f) && i < MAX) {
 
-		sscanf(strLinea, "%d", &ptrEmpleado->legajo);
+
+		// Proceso
+		// sscanf(strLinea, "%d", &ptrEmpleado->legajo);
+
+		strncpy(strLegajo, strLinea, 8);
+		strLegajo[8] = '\0';
+		ptrEmpleado->legajo = atoi(strLegajo);
+
 		strncpy(ptrEmpleado->nombre, strLinea + 8, 40);
 		ptrEmpleado->nombre[40]= '\0';
+				
 		strncpy(ptrEmpleado->gerencia, strLinea + 48, 50);
 		ptrEmpleado->gerencia[50] = '\0';
+		
+		
 		strncpy(ptrEmpleado->puesto, strLinea + 98, 90);
 		ptrEmpleado->puesto[90] = '\0';
+
+
 		i++;
 		ptrEmpleado++;
 		fgets(strLinea, 200, f);
